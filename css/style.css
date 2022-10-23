@@ -9,7 +9,6 @@
 a {
     text-decoration: none;
     color: #3f3f3f;
-    transition: 0.2s border;
 }
 
 a:hover, a:focus {
@@ -41,7 +40,6 @@ a:hover, a:focus {
     margin: 0.25em;
     border: 0.15em solid transparent;
     border-bottom: 0.15em solid #3F72AF;
-    transition: 0.2s border, border-radius;
 }
 
 .nav__item--active {
@@ -50,7 +48,6 @@ a:hover, a:focus {
 
 .nav__link {
     padding: 0.25em;
-    transition: 0.2s border;
 }
 
 .nav__item:hover,
@@ -109,7 +106,6 @@ a:hover, a:focus {
     background: #3F72AF;
     color: #3f3f3f;
     border-radius: 0.4em;
-    transition: 0.2s background, color;
 }
 
 .form__button:hover,
